@@ -15,7 +15,7 @@ body {
 
 /* Estilização do container do formulário */
 .formularioIMC {
-  background: white;
+  background: #dddfff;
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
@@ -36,18 +36,18 @@ label {
 input {
   padding: 10px;
   margin-bottom: 15px;
-  border: 1px solid #ccc;
+  border: 1px solid #ddd;
   border-radius: 4px;
   outline: none;
 }
 
 input:focus {
-  border-color: #007bff;
+  border-color: #007b6f;
 }
 
 /* Estilo do botão */
 #botao-calcular {
-  background-color: #007bff;
+  background-color: #007b6f;
   color: white;
   border: none;
   padding: 10px;
@@ -58,7 +58,7 @@ input:focus {
 }
 
 #botao-calcular:hover {
-  background-color: #0056b3;
+  background-color: #005663;
 }
 
 /* Estilo do texto de resultado */
